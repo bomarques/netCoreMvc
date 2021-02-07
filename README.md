@@ -6,8 +6,8 @@ Funcionalidades:
 
 **Tecnologias utilizadas:**
 
-> • Back-End: Asp Net Core 2.1.7
-> • ORM: Entity Framework Core
+> • Back-End: Asp Net Core 2.1.7 <br />
+> • ORM: Entity Framework Core <br />
 > • Banco de dados: MySQL
 
 
@@ -18,7 +18,7 @@ Funcionalidades:
 > 3. Inicie o servidor MySQL.
 > 4. Inicie o MySQL WorkBench.
 > 5. No Package Manager Console execute os comandos:
->> 5.1 Add-Migration Initial
->> 5.2 Update-Database 
+>> 5.1 Add-Migration Initial <br />
+>> 5.2 Update-Database <br />
 >> 5.3 Confira se as tabelas foram criadas no MySQL Workbench.
 > 6. No Visual Studio inicie a aplica com Control+F5.
